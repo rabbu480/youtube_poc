@@ -1,0 +1,8 @@
+
+D:\>cd Rabbani_Projects
+
+D:\Rabbani_Projects> cd youtube_poc
+
+D:\Rabbani_Projects\youtube_poc>yt_env\Scripts\activate
+
+(yt_env) D:\Rabbani_Projects\youtube_poc>jupyter_notebook
