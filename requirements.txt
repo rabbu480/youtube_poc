@@ -1,0 +1,12 @@
+#moviepy
+moviepy==2.0.0.dev2
+gtts
+Pillow
+python-dotenv
+beautifulsoup4
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+noisereduce
