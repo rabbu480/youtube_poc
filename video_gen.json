@@ -1,35 +1,42 @@
 {
-  "Title": "Unlocking Inception: The Mind-Bending Journey Explained!",
-  "Description": "Dive into the captivating world of 'Inception' as we unravel its complex story and themes. Join us for an engaging summary that explores dreams within dreams!",
+  "Title": "FAANG Job Kaise Paayein? | Google, Amazon, Meta Crack Karne Ka Raaz! 💼🔥",
+  "Description": "FAANG companies jaise Google, Amazon, Meta, Apple, aur Netflix mein job paana sapna hota hai har tech aspirant ka. Iss 3-minute ke Hindi video mein jaanein woh secrets, strategies aur mindset jo aapko bhi bana sakte hain agla FAANG engineer! Dekhiye poora video, aur career ke safar mein ek kadam aage badhiye!",
   "Story Narration": {
-    "Introduction": "Hi there! Welcome to our channel where we explore the most fascinating stories in cinema.",
-    "Content": "Inception, directed by Christopher Nolan, is a thrilling sci-fi film that takes us deep into the realm of dreams. The story follows Dom Cobb, a skilled thief who specializes in extracting secrets from people's subconscious while they dream. Cobb is offered a chance to have his criminal past erased if he can successfully perform an 'inception'—the planting of an idea in someone's mind. As Cobb assembles a team to navigate multiple layers of dreams, they face unexpected challenges and confront their own fears. The film's intricate narrative structure keeps viewers on the edge of their seats as they ponder the nature of reality and dreams.",
-    "Conclusion": "And that’s a wrap on our journey through Inception! If you enjoyed this summary, make sure to subscribe, hit the bell icon for notifications, and stay tuned for more cinematic explorations!"
+    "Introduction": "Namaste doston! Agar aapka sapna hai Google, Amazon ya Meta jaisi badi tech company mein job paane ka, toh yeh video aapke liye hi hai!",
+    "Content": "FAANG companies duniya ki sabse badi aur prestigious tech firms hain. Par yahaan job milna asaan nahi hota. Sabse pehle, ek solid foundation banaiye Data Structures & Algorithms mein. Competitive coding platforms jaise LeetCode, HackerRank pe daily practice karein.\n\nDusra, apna LinkedIn profile aur GitHub portfolio strong banaiye. Open-source contributions aur impactful projects aapke resume ko alag banaate hain.\n\nTeesra step hai – networking! FAANG mein kaam kar rahe logon se connect karke referrals maangna kaafi madadgaar hota hai. Aur haan, mock interviews zaroor dijiye – InterviewBit, Pramp jaise platforms pe.\n\nLast but not least – confidence! Interviews mein problem-solving ke saath communication skills bhi test kiye jaate hain. Hindi-English dono mein clearly express karna aana chahiye.",
+    "Conclusion": "Toh doston, FAANG crack karna mushkil zarur hai, par namumkin nahi! Mehnat, smart planning aur consistency se aap bhi top tech companies mein jaa sakte hain. Agar yeh video pasand aaya ho toh like kariye, channel ko subscribe kariye aur bell icon dabana na bhoolein! Milte hain agle video mein, tab tak ke liye – keep learning, keep growing!"
   },
   "Tags": [
-    "Inception",
-    "Christopher Nolan",
-    "Movie Summary",
-    "Dreams",
-    "Science Fiction",
-    "Mind-Bending",
-    "Film Analysis"
+    "FAANG in Hindi",
+    "Crack Google Job",
+    "Amazon Interview Prep",
+    "Meta Jobs",
+    "FAANG India",
+    "Tech Jobs Tips",
+    "Hindi Career Guide",
+    "DSA Hindi",
+    "Coding Interview Hindi",
+    "FAANG Resume Tips"
   ],
-  "Narration Type": "Storytelling",
-  "Category ID": "24",
+  "Narration Type": "Informative",
+  "Category ID": "27",
   "Privacy Status": "public",
-  "Thumbnail Text": "Discover the Secrets of Inception!",
+  "Thumbnail Text": "FAANG Job Kaise Milegi?🔥 Hindi Mein Jaanein!",
   "Image Tags": [
-    "Inception",
-    "Dreams",
-    "Christopher Nolan",
-    "Leonardo DiCaprio",
-    "Mind",
-    "Film"
+    "FAANG companies",
+    "job interview",
+    "coding laptop",
+    "developer workspace",
+    "software engineer",
+    "tech office"
   ],
-  "Music Suggestions": "Cinematic orchestral music, ambient electronic sounds",
-  "Audio Language (for TTS)": "en",
-  "Script Revision Note": "Refined content for clarity and engagement.",
-  "Upload Date and Time": "immediate",
-  "Topic_Language": "Inception English Movie Story - English"
+  "Music Suggestions": [
+    "Inspirational Background Beat",
+    "Soft Corporate Ambient",
+    "Upbeat Tech Music"
+  ],
+  "Audio Language (for TTS)": "hi",
+  "Script Revision Note": "Initial draft created for 3-minute video in Hindi targeting aspiring software engineers aiming for FAANG.",
+  "Upload Date and Time": "Immediate",
+  "Topic_Language": "Cracking Faang Companies - Hindi"
 }
